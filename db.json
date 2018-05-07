@@ -1,0 +1,52 @@
+{
+  "home": [
+    { 
+        "id": 1,
+        "name": "Kitchen",
+        "image":"kitchen",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "designs": [
+            {"designId":"a1","title":"kitchen1","image":"kitchen1"},
+            {"designId":"a2","title":"kitchen2","image":"kitchen2"},
+            {"designId":"a3","title":"kitchen3","image":"kitchen3"},
+            {"designId":"a4","title":"kitchen4","image":"kitchen4"}
+        ]
+    },
+    { 
+        "id": 2,
+        "name": "Bedroom",
+        "image":"bedroom", 
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "designs": [
+            {"designId":"b1","title":"bedroom1","image":"bedroom1"},
+            {"designId":"b2","title":"bedroom2","image":"bedroom2"},
+            {"designId":"b3","title":"bedroom3","image":"bedroom3"},
+            {"designId":"b4","title":"bedroom4","image":"bedroom4"}
+        ]
+    },
+    { 
+        "id": 3,
+        "name": "Livingroom", 
+        "image":"livingroom",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.", 
+        "designs": [
+            {"designId":"c1","title":"livingroom1","image":"livingroom1"},
+            {"designId":"c2","title":"livingroom2","image":"livingroom2"},
+            {"designId":"c3","title":"livingroom3","image":"livingroom3"},
+            {"designId":"c4","title":"livingroom4","image":"livingroom4"}
+        ]
+    },
+    { 
+        "id": 4,
+        "name": "Bathroom", 
+        "image":"bathroom", 
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "designs": [
+            {"designId":"d1","title":"bathroom1","image":"bathroom1"},
+            {"designId":"d2","title":"bathroom2","image":"bathroom2"},
+            {"designId":"d3","title":"bathroom3","image":"bathroom3"},
+            {"designId":"d3","title":"bathroom4","image":"bathroom4"}
+        ]
+    }
+  ]
+}
