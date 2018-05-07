@@ -31,12 +31,12 @@ class Section extends Component {
                 <Header />
                 <div className="design__description-container mt-5">
                     <div className="row mb-5">
-                        <div className="col-5">
+                        <div className="col-12 col-md-5">
                             <div className="design__image">
                                 <span style={{ background: `url('/images/home/${this.state.section.image}.jpg') no-repeat` }}></span>
                             </div>
                         </div>
-                        <div className="col-7">
+                        <div className="col-12 col-md-7">
                             <div className="design__description">
                                 <h3>{this.state.section.name}</h3>
                                 <div className="design__description-text">
